@@ -20,7 +20,7 @@
 
 ![Screenshot 2025-04-16 104312](https://github.com/user-attachments/assets/458db865-9b8d-4a1a-b2c6-ebe8ef42f298)
 
-<h5>Edit Contact Manager</h5>
+<h5>Edit Contact Page</h5>
 
 
 ![Screenshot 2025-04-16 104522](https://github.com/user-attachments/assets/802fbd4c-1a87-41fd-a266-9583c1b412ff)
